@@ -1,1 +1,3 @@
 # SQL
+Here is a journey of learning SQL...
+This repository shows my learning path of SQL.
